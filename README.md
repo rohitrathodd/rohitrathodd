@@ -8,17 +8,17 @@
 </p> -->
 
 <p align="center">
-  <a href="https://rohitr.com"><img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio"/></a>
+  <a href="https://rohitr.com" target="_blank"><img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://linkedin.com/in/rohitrathodd"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/rohitrathodd" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- <a href="mailto:rohitrathod7032@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" alt="Email"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287; -->
-  <a href="https://twitter.com/rohitrathodd"><img src="https://skillicons.dev/icons?i=twitter" height="48" alt="Twitter"/></a>
+  <a href="https://twitter.com/rohitrathodd" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="48" alt="Twitter"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://leetcode.com/rohitrathodd"><img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" height="48" alt="LeetCode"/></a>
+  <a href="https://leetcode.com/rohitrathodd" target="_blank"><img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" height="48" alt="LeetCode"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://github.com/rohitrathodd"><img src="https://skillicons.dev/icons?i=instagram" height="48" alt="Instagram"/></a>
+   <a href="https://instagram.com/rohitrathodd" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="48" alt="Instagram"/></a>
 </p>
 
 ---
