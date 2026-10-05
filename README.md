@@ -24,7 +24,7 @@
 ---
 
 ## 🧑‍💻 About Me  
-- 💼 Java Developer with 3 years of professional experience. **(2022 – Present)**
+- 💼 Java Developer with 4 years of professional experience. **(2022 – Present)**
 <!--- 💼 Java Developer @ **Meditab Software Inc. (2022 – Present)** -->
 - 🎓 B.Tech in CSE (2019–2023), **Parul University** | CGPA: 8.0  
 <!--- 🛠️ 2+ years of experience in **Java, Spring Boot, Microservices, GCP & Jenkins** --> 
